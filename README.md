@@ -44,7 +44,7 @@
 ### ⚙️ Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,c,cpp" />
 </div>
 
 ---
@@ -109,7 +109,7 @@
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | JavaScript, TypeScript, Python, Java |
+| **Languages** | JavaScript, TypeScript, Python, Java, C, C++  | 
 | **Frontend** | React, Next.js, Angular, Tailwind, Bootstrap |
 | **Backend** | Node.js, Express, Django, Flask |
 | **Databases** | MongoDB, MySQL |
