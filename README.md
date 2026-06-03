@@ -112,7 +112,7 @@
 | **Languages** | JavaScript, TypeScript, Python, Java, C, C++  | 
 | **Frontend** | React, Next.js, Angular, Tailwind, Bootstrap |
 | **Backend** | Node.js, Express, Django, Flask |
-| **Databases** | MongoDB, MySQL |
+| **Databases** | MongoDB, MySQL, PostgreSQL |
 | **DevOps** | Docker, AWS, Azure |
 | **Core Skills** | DSA, Problem Solving, REST APIs |
 
